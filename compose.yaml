@@ -1,0 +1,5 @@
+services:
+  ebiznes1:
+    build:
+      context: .
+      dockerfile: Dockerfile
