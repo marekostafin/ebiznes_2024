@@ -18,3 +18,11 @@ https://github.com/marekostafin/ebiznes_2024/tree/main/zadanie3
 Zadanie 4:
 
 https://github.com/marekostafin/ebiznes_2024/tree/main/zadanie4
+
+Zadanie 5:
+
+https://github.com/marekostafin/ebiznes_2024/tree/main/zadanie5
+
+Zadanie 6:
+
+https://github.com/marekostafin/ebiznes_2024/tree/main/zadanie6
