@@ -35,3 +35,7 @@ https://github.com/marekostafin/ebiznes-zadanie7
 Zadanie 8:
 
 https://github.com/marekostafin/ebiznes_2024/tree/main/zadanie8
+
+Zadanie 9:
+
+https://github.com/marekostafin/ebiznes_2024/tree/main/zadanie9
