@@ -1,4 +1,4 @@
-package com.ebiznes2024;
+package com.ebiznes24.backend;
 
 import dev.langchain4j.service.TokenStream;
 
