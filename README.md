@@ -39,3 +39,7 @@ https://github.com/marekostafin/ebiznes_2024/tree/main/zadanie8
 Zadanie 9:
 
 https://github.com/marekostafin/ebiznes_2024/tree/main/zadanie9
+
+Zadanie 10:
+
+https://github.com/marekostafin/ebiznes_2024/tree/main/zadanie10
